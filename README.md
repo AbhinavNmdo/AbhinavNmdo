@@ -26,10 +26,10 @@ const abhinav = {
 }
 ```
 
-#### Popular Projects
+<!--#### Popular Projects
 <a href="https://deltainvesting.herokuapp.com">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=to-do-list-flask&theme=onedark" />
-</a>
+</a> -->
 
 
