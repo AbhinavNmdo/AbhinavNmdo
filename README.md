@@ -7,7 +7,7 @@
 <p>I am a front-end developer, I'm a back-end Programmer, I also like to create projects in React.</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
-  <li>👋 Hi, I’m <a href="https://github.com/AbhinavNmdo">Abhinav Namdeo</a></li>
+  <li>👋 Hi, I’m <a href="https://github.com/AbhinavNmdo" style="text-decoration: none;">Abhinav Namdeo</a></li>
   <li>❤️ I love Creating websites and Programming in Javascript and Python.</li>
   <li>🌱 I’m currently learning Web Development, Android Development, Java, Python, and JS.</li>
 </ul>
