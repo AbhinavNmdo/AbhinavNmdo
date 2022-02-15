@@ -34,7 +34,7 @@ const abhinav = {
 
 <a href="https://renukamusicacademy.in">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AbhinavNmdo&repo=RenukaMusicAcedemy&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AbhinavNmdo&repo=renukamusicacademy&theme=onedark" />
 </a>
 
 
