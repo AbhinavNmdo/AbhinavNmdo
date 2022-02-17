@@ -19,9 +19,9 @@ const abhinav = {
   code: ["Javascript", "Python", "HTML", "CSS", "Java"],
   askMeAbout: ["web dev","React", "frontend dev", "backend dev", "flask"],
   technologies: {
-      frontend: ["HTML", "CSS", "JS", "Bootstrap"],
-      backend: ["Flask", "JS"],
-      framework: ["React", "Angular"]
+      frontend: ["HTML", "CSS", "JS", "Tailwind"],
+      backend: ["Flask", "JS", "NodeJS"],
+      framework: ["React", "Angular", "React Native"]
   }
 }
 ```
