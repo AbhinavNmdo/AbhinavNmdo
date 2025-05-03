@@ -20,18 +20,13 @@ const abhinav = {
   askMeAbout: ["web dev","React", "frontend dev", "backend dev", "flask"],
   technologies: {
       frontend: ["HTML", "CSS", "JS", "Tailwind"],
-      backend: ["Flask", "JS", "NodeJS"],
+      backend: ["PHP", "JS", "NodeJS"],
       framework: ["React", "Angular", "React Native"]
   }
 }
 ```
 
 #### Popular Projects
-<a href="https://investingdelta.in" style="margin: 10px;">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AbhinavNmdo&repo=investingdelta&theme=onedark" />
-</a>
-
 <a href="https://renukamusicacademy.in" style="margin: 10px;">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AbhinavNmdo&repo=renukamusicacademy&theme=onedark" />
