@@ -29,7 +29,7 @@ const abhinav = {
 #### Popular Projects
 <a href="https://investingdelta.in" style="margin: 10px;">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AbhinavNmdo&repo=deltainvesting&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AbhinavNmdo&repo=investingdelta&theme=onedark" />
 </a>
 
 <a href="https://renukamusicacademy.in" style="margin: 10px;">
